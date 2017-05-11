@@ -9,6 +9,7 @@ npm install promisfy-readfile
 ## useage
 
 ```js
+const readFile = require('promisfy-readfile');
 let genera = async ()=>{
 	let da = await readFile(file);
 	return da;
