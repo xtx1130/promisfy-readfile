@@ -4,7 +4,7 @@
   "description": "promise readfileStream",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "echo test"
   },
   "keywords": [
     "promise",
