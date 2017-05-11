@@ -1,6 +1,6 @@
 {
   "name": "promisfy-readfile",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "promise readfileStream",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,10 @@
     "fs",
     "readStream"
   ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/xtx1130/promisfy-readfile.git"
+  },
   "author": "xtx",
   "license": "MIT",
   "dependencies": {
