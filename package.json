@@ -1,0 +1,19 @@
+{
+  "name": "promisfy-readfile",
+  "version": "1.0.0",
+  "description": "promise readfileStream",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "promise",
+    "fs",
+    "readStream"
+  ],
+  "author": "xtx",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.0"
+  }
+}
