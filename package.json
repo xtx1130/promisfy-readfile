@@ -1,6 +1,6 @@
 {
   "name": "promisfy-readfile",
-  "version": "1.1.0",
+  "version": "1.3.0",
   "description": "promise readfileStream",
   "main": "index.js",
   "scripts": {
