@@ -24,7 +24,7 @@ genera().then(res=>{
 });
 ```
 
-##issues
+## Issues  
 If you have any question,please click [issues](https://github.com/xtx1130/promisfy-readfile/issues)
 
 ## License
