@@ -1,6 +1,6 @@
 # promisfy-readfile
 
-> promisfy for readfile
+> simple promisfy for readfile
 
 
 ```bash
